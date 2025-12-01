@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "C8TN9ZUFGF.fr.caree.app",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
