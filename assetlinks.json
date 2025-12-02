@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.caree.app",
+    "sha256_cert_fingerprints":
+    ["89:35:8D:0B:19:90:3D:A5:5D:A0:58:98:8D:9F:FA:4B:49:C3:21:57:9D:5E:36:DC:6C:50:FB:4B:AA:A4:10:5E"]
+  }
+}]
